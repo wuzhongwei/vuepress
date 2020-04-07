@@ -4,7 +4,7 @@ import 'element-ui/lib/theme-chalk/index.css'
 import hljs from 'highlight.js'
 import 'highlight.js/styles/googlecode.css'
 import WzwUi from 'wzw-ui'
-import 'wzw-ui/dist/wzw-ui.css'
+import 'wzw-ui/lib/style/index.css'
 Vue.directive('highlight', function(el) {
   let blocks = el.querySelectorAll('pre code');
   blocks.forEach((block) => {
