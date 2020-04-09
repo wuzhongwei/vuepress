@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{527:function(t,n,e){"use strict";e.r(n);var i=e(43),r=Object(i.a)({},(function(){var t=this.$createElement,n=this._self._c||t;return n("div",[n("wzw-button",{attrs:{type:"primary",loading:!0}},[this._v("加载中")])],1)}),[],!1,null,null,null);n.default=r.exports}}]);
