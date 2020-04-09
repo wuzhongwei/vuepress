@@ -4,6 +4,7 @@ module.exports = {
   description: 'ui 库', // 描述
   dest: './build', // 设置输出目录
   port: 1234, // 端口
+  base: '/wzw-ui.github.io/',
   themeConfig: { // 主配置文件
     nav: [
       { text: '主页', link: '/' },

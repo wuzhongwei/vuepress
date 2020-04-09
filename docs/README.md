@@ -1,8 +1,9 @@
 ---
 home: true
-actionText: 欢迎
+heroImage: /hero.png
+actionText: 欢迎22
 actionLink: /components/button/
 features:
-- title: 搭建自己到组件库
+- title: 搭建自己的组件库
   details: 从0搭建自己组件库
 ---
